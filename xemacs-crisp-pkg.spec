@@ -2,7 +2,7 @@ Summary:	Crisp/Brief emulation
 Summary(pl):	Crisp/Brief emulation
 Name:		xemacs-crisp-pkg
 %define 	srcname	crisp
-Version:	1.11
+Version:	1.12
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
