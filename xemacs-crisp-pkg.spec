@@ -2,12 +2,12 @@ Summary:	Crisp/Brief emulation
 Summary(pl):	Emulacja Crisp/Brief
 Name:		xemacs-crisp-pkg
 %define 	srcname	crisp
-Version:	1.14
-Release:	2
+Version:	1.15
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	ba1bbc29153b1849e71d123b9f2021b1
+# Source0-md5:	0efd73abddf2e032f520ed60b493d463
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
