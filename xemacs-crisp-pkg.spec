@@ -1,5 +1,5 @@
 Summary:	Crisp/Brief emulation
-Summary(pl.UTF-8):   Emulacja Crisp/Brief
+Summary(pl.UTF-8):	Emulacja Crisp/Brief
 Name:		xemacs-crisp-pkg
 %define 	srcname	crisp
 Version:	1.15
