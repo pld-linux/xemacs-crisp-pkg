@@ -1,5 +1,5 @@
 Summary:	Crisp/Brief emulation
-Summary(pl):	Emulacja Crisp/Brief
+Summary(pl.UTF-8):   Emulacja Crisp/Brief
 Name:		xemacs-crisp-pkg
 %define 	srcname	crisp
 Version:	1.15
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Crisp/Brief emulation.
 
-%description -l pl
+%description -l pl.UTF-8
 Emulacja Crisp/Brief.
 
 %prep
